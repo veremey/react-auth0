@@ -1,1 +1,1 @@
-# react-auth0
+# Secure React User Authentication with Auth0
